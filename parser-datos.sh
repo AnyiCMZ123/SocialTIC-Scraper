@@ -1,6 +1,6 @@
 LANG=da_DK.UTF-8
 
-# Programa que obtiene los datos de un archivo html de un senador
+# Programa que obtiene los datos de un archivo html de un senador y diputado
 
 
 extraer_nombre_completo() {
