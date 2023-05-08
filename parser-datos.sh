@@ -1,7 +1,6 @@
 LANG=da_DK.UTF-8
 
 # Programa que obtiene los datos de un archivo html de un senador
-#"C:\Users\HP\OneDrive\Escritorio\Senadores\encabezados.txt"
 
 
 extraer_nombre_completo() {
