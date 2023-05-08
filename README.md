@@ -15,6 +15,7 @@
 <p>
 Este programa obtiene la tabla de senadores para posteriormente obtener cada perfil de cada senador por separado en un archivo HTML.
 </p>
+
 ```
 #!/bin/bash
 # -*- ENCODING: UTF-8 -*-
@@ -100,5 +101,10 @@ Posteriormente toda esta información extraída se almacena en tres archivos .cs
 </p>
 
 <p>
-Los encabezados y datos quedan ordendos de la siguiente manera: **Nombre, Apellido, Estatus, Fecha de inicio, Fecha final, Partido, Principio de eleccion, Zona, Toma de protesta, Correo electronico, Ultimo grado, Preparacion Academica, Suplente, Nacimiento, Facebook, Twitter, instagram.**
-</p>
+Los encabezados y datos quedan ordendos de la siguiente manera:
+</p> 
+
+**Nombre, Apellido, Estatus, Fecha de inicio, Fecha final, Partido, Principio de eleccion, Zona, Toma de protesta, Correo electronico, Ultimo grado, Preparacion Academica, Suplente, Nacimiento, Facebook, Twitter, instagram.**
+
+[![scrapp.png](https://i.postimg.cc/XqTQd87P/scrapp.png)](https://postimg.cc/1VrGZDF0)
+
