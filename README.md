@@ -1,4 +1,4 @@
-# Obtención automatizada de perfiles de senadores de México desde SIL
+# Obtención automatizada de perfiles de senadores y diputados de México desde el sitio web SIL
 
 - Este es un script de shell en Bash que realiza una serie de acciones, para obtener información sobre los senadores y diputados de México desde el sitio SIL (Sistema de información legislativa) y almacenarla en archivos.
 
