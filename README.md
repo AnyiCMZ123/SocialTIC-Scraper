@@ -38,7 +38,7 @@ wc -l 02-lineas-referencias-senadores.txt
 <p>
 - La séptima línea utiliza el comando "grep" para buscar en el archivo 01-tabla-senadores.html todas las líneas que contienen la palabra "Referencia".
 
-- La octava línea cuenta el número de líneas en el archivo 02-lineas-referencias-senadores.txt que fueron generadas en la línea anterior.
+-La octava línea cuenta el número de líneas en el archivo 02-lineas-referencias-senadores.txt que fueron generadas en la línea anterior.
 </p>
 
 ```
